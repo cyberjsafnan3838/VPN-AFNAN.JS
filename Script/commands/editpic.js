@@ -71,4 +71,4 @@ module.exports.handleReply = async function ({ api, event, args }) {
   if (event.type === "message_reply") {
     await handleEdit(api, event, args, this.config.name);
   }
-}
+};
