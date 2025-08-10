@@ -5,7 +5,7 @@ module.exports.config = {
 	credits: "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️",
   description: "the person you need to remove from the group by tag",
 	commandCategory: "System", 
-	usages: "[tag]", 
+	usages: "[61577782659175]", 
 	cooldowns: 0,
 };
 
